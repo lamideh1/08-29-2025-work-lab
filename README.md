@@ -1,2 +1,2 @@
-# 08-29-2025-work-lab
-convenants of skewfix build work flow
+# My App
+This is a sample Node.js application for testing Jenkins CI/CD pipelines.
